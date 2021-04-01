@@ -46,3 +46,7 @@ Here are some ideas I work or want to work on when I have time. If you want to c
 - Implementation of most rules as snakemake wrapper
 - Cloud execution
 - Update to new Snakemake version and use cool reports.
+
+
+
+
